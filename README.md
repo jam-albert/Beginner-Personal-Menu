@@ -1,2 +1,2 @@
-# Beginner-Personal-Menu
-This will show you in python a couple of options for food, drinks, sauces, and desserts that you can add or remove when asked.
+# Beginner-Personal-Menu 
+An incomplete project in Python, This will show the user a couple of options for food, drinks, sauces, and desserts that you can add or remove when asked, and the code will output a random comment depending on which item was chosen. Once the user clicks to check the cost, the costs for each item selected will be shown and combined, including tax, along with an optional tip amount the user can add.
